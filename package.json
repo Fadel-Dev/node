@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "validator": "^13.7.0"
+    "validator": "6.1"
   }
 }
